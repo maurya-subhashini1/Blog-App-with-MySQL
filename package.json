@@ -1,0 +1,17 @@
+{
+  "name": "third_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "^1.4.6",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start":"nodemon index.js" 
+  },
+  "author": "",
+  "license": "ISC"
+}
